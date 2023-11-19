@@ -1,4 +1,5 @@
 # address_of_operator
+This program demonstrates how to use the address-of operator.
 
 ## What You Need
 * Clion
